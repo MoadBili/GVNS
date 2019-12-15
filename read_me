@@ -1,0 +1,8 @@
+Chaque  fichier contient les données nécessaires à la résolution du problème.
+La 1ere ligne contient le nombre de commandes n suivi du nombre de moyen de transport m.
+La 2eme ligne contient les durées aller/retour du fournisseur vers le client
+La 3eme ligne contient le temps de chargement de chaque commande
+-----------------
+n	m
+p1	p2	...	pn
+l1	l2	...	ln
